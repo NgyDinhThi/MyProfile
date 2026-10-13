@@ -81,6 +81,13 @@
       <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vietnamese-Native-red?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPHJlY3Qgd2lkdGg9IjMwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjREEyNTFEIi8%2BPHBvbHlnb24gcG9pbnRzPSIxNS4wMCw0LjAwIDE2LjUzLDguNDAgMjEuMTgsOC40OSAxNy40NywxMS4zMCAxOC44MiwxNS43NiAxNS4wMCwxMy4xMCAxMS4xOCwxNS43NiAxMi41MywxMS4zMCA4LjgyLDguNDkgMTMuNDcsOC40MCIgZmlsbD0iI0ZGRkYwMCIvPjwvc3ZnPg%3D%3D&logoWidth=20" />
+      <img src="https://img.shields.io/badge/English-Professional-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPHJlY3Qgd2lkdGg9IjMwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjMDEyMTY5Ii8%2BPHBhdGggZD0iTTAgMEwzMCAyME0zMCAwTDAgMjAiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8%2BPHBhdGggZD0iTTAgMEwzMCAyME0zMCAwTDAgMjAiIHN0cm9rZT0iI0M4MTAyRSIgc3Ryb2tlLXdpZHRoPSIxLjMiLz48cmVjdCB4PSIxMiIgd2lkdGg9IjYiIGhlaWdodD0iMjAiIGZpbGw9IiNmZmYiLz48cmVjdCB5PSI3IiB3aWR0aD0iMzAiIGhlaWdodD0iNiIgZmlsbD0iI2ZmZiIvPjxyZWN0IHg9IjEzLjIiIHdpZHRoPSIzLjYiIGhlaWdodD0iMjAiIGZpbGw9IiNDODEwMkUiLz48cmVjdCB5PSI4LjIiIHdpZHRoPSIzMCIgaGVpZ2h0PSIzLjYiIGZpbGw9IiNDODEwMkUiLz48L3N2Zz4%3D&logoWidth=20" />
+    </td>
+  </tr>
 </table>
 
 <br>
