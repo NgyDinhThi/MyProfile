@@ -85,7 +85,8 @@ Top-down action game with a quest system.
 <tr>
 <td><b>BIM & CAD</b></td>
 <td>
-<img src="https://img.shields.io/badge/Revit_API-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Revit API" />
+<img src="https://img.shields.io/badge/Autodesk_Revit-0696D7?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk Revit" />
+<img src="https://img.shields.io/badge/Autodesk_API-000000?style=flat-square&logo=autodesk&logoColor=white" alt="Autodesk API" />
 <img src="https://img.shields.io/badge/AutoCAD-E52028?style=flat-square&logo=autocad&logoColor=white" alt="AutoCAD" />
 <img src="https://img.shields.io/badge/ZWCAD-005B9F?style=flat-square" alt="ZWCAD" />
 </td>
