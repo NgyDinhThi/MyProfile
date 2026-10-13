@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Nguyen%20Dinh%20Thi&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%7C%20BIM%20Integration&descSize=18&descAlignY=60" width="100%" alt="Header" />
 
 <a href="https://ngydinhthi.github.io/Portfolio-GitHub/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+DOALLTECH+VIETNAM;Backend+%C2%B7+C%23+.NET;BIM+Integration+%C2%B7+Autodesk+Revit+API;Game+Development+%C2%B7+Unity;Check+out+my+Portfolio+Website!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+DOALLTECH+VIETNAM;Backend+%C2%B7+C%23+.NET+%C2%B7+DevExpress;BIM+Integration+%C2%B7+Autodesk+Revit+API;Game+Development+%C2%B7+Unity;Check+out+my+Portfolio+Website!" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -47,12 +47,15 @@
     <td>
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
       <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/DevExpress-1572B6?style=for-the-badge&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>BIM & 3D</b></td>
     <td>
       <img src="https://img.shields.io/badge/Autodesk%20Revit-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
+      <img src="https://img.shields.io/badge/AutoCAD-E52028?style=for-the-badge&logo=autocad&logoColor=white" />
+      <img src="https://img.shields.io/badge/ZWCAD-005B9F?style=for-the-badge&logoColor=white" />
       <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
       <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
     </td>
