@@ -15,8 +15,7 @@
 <p align="center">
   Software engineer based in Hanoi, currently working at <b>DOALLTECH VIETNAM</b>.<br>
   I build scalable backend services with <b>C# (.NET) & Python</b>, design real-time data integrations using the <b>Revit API</b>,<br>
-  and develop interactive 3D/gaming experiences in <b>Unity</b>.<br><br>
-  🌐 <b><a href="https://ngydinhthi.github.io/Portfolio-GitHub/">Visit my Portfolio Website</a></b>
+  and develop interactive 3D/gaming experiences in <b>Unity</b>.
 </p>
 
 </div>
